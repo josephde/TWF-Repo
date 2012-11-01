@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/bin/wget -O - -q -t 1 http://my.world-federation.org/cron.php 

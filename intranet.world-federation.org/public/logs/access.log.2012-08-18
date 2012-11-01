@@ -1,0 +1,2 @@
+cpc8-smal11-0-0-cust17.perr.cable.virginmedia.com - - [17/Aug/2012:15:52:52 +0100] "GET / HTTP/1.1" 403 2689 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1"
+cpc8-smal11-0-0-cust17.perr.cable.virginmedia.com - - [17/Aug/2012:15:52:52 +0100] "GET /favicon.ico HTTP/1.1" 404 209 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1"

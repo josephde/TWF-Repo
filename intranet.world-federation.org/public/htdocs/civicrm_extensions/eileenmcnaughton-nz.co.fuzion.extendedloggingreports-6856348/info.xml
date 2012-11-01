@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<extension key="nz.co.fuzion.extendedloggingreports" type="module">
+  <downloadUrl>http://github.com/eileenmcnaughton/nz.co.fuzion.extendedloggingreports/zipball/master</downloadUrl>
+  <file>extendedloggingreports</file>
+  <name>Extended Logging Reports</name>
+  <description>Logging reports to deal with batch or script updates</description>
+  <license>AGPL</license>
+  <maintainer>
+    <author>Eileen McNaughton</author>
+    <email>eileen@fuzion.co.nz</email>
+  </maintainer>
+  <releaseDate>2012-09-04</releaseDate>
+  <version>1.0</version>
+  <develStage>beta</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>Module is designed for the situation where updates are done by batch and logging reports need to cover longer process and multple contacts. Report works information will be limited with this patch http://issues.civicrm.org/jira/browse/CRM-10748</comments>
+  <civix>
+    <namespace>CRM/Extendedloggingreports</namespace>
+  </civix>
+</extension>

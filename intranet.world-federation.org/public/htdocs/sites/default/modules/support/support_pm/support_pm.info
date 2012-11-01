@@ -1,0 +1,12 @@
+name = Support Project Management
+description = Add project management functionality to the support module
+package = Support
+dependencies[] = support
+core = 7.x
+
+; Information added by drupal.org packaging script on 2012-04-10
+version = "7.x-1.0-rc1"
+core = "7.x"
+project = "support"
+datestamp = "1334020279"
+

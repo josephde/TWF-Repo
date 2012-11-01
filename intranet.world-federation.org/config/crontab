@@ -1,0 +1,12 @@
+#
+# Send output to me temporarily, comment out when done  
+#
+
+MAILTO=josephd@world-federation.org
+
+# my.world-federation.org crons
+
+#Civicrm
+#*/5 * * * * admin wget -O - -q -t 1 --post-data='name=cron&pass=6OOpvjPa&key=wBLvuTgOgQorfMn4hDw0v' http://my.world-federation.org/sites/all/modules/civicrm/bin/cron.php
+#Drupal
+#*/5 * * * * admin wget -O - -q -t 1 http://my.world-federation.org/cron.php

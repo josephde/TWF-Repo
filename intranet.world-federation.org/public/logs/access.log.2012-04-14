@@ -1,0 +1,3 @@
+188-221-82-209.zone12.bethere.co.uk - - [10/Apr/2012:01:22:03 +0100] "GET / HTTP/1.1" 403 2689 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+188-221-82-209.zone12.bethere.co.uk - - [10/Apr/2012:01:22:03 +0100] "GET /favicon.ico HTTP/1.1" 404 209 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+yi-in-f90.1e100.net - - [10/Apr/2012:01:51:17 +0100] "GET / HTTP/1.1" 403 2689 "-" "-"

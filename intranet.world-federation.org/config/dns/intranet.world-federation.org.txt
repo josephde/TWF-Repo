@@ -1,0 +1,24 @@
+#
+#  Nameserver records.
+#
+.intranet.world-federation.org::a.ns.bytemark.co.uk
+.intranet.world-federation.org::b.ns.bytemark.co.uk
+.intranet.world-federation.org::c.ns.bytemark.co.uk
+
+#
+#  The domain name itself
+#
+=intranet.world-federation.org:212.110.185.76
+
+#
+#  Useful aliases.
+#
++ftp.intranet.world-federation.org:212.110.185.76
++mx.intranet.world-federation.org:212.110.185.76
++www.intranet.world-federation.org:212.110.185.76
+
+#
+#  MX record
+#
+@intranet.world-federation.org:212.110.185.76:mx.intranet.world-federation.org:15
+

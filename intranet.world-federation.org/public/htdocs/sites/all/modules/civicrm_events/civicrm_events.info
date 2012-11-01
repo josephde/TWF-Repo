@@ -1,0 +1,15 @@
+name = CiviCRM Events
+description = CiviCRM Events
+version = 7.x-1.0
+package = CiviCRM
+dependencies[] = civicrm
+core = 7.x
+
+files[] = civicrm_events.module
+
+; Information added by drupal.org packaging script on 2011-09-16
+version = "7.x-1.2"
+core = "7.x"
+project = "civicrm_events"
+datestamp = "1316191602"
+
